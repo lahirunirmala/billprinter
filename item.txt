@@ -1,0 +1,12 @@
+Fanta#25.0
+Soda#30.00
+beer#105.00
+Nescafa#10.00
+HamBurge#50.0
+Fhishbun#25.0
+Kotthu(E)#80.00
+Kotthu(C)#60.00
+Kotthu(B)#100.00
+Kotthu(V)#45.00
+Tae#15.00
+Milk#20.00
