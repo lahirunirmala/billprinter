@@ -10,3 +10,4 @@ Kotthu(B)#100.00
 Kotthu(V)#45.00
 Tae#15.00
 Milk#20.00
+Data#10.00
