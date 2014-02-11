@@ -5,7 +5,7 @@
 
 package com.infinity.billclint.gui;
 
-import com.stefankrause.xplookandfeel.XPLookAndFeel;
+//import com.stefankrause.xplookandfeel.XPLookAndFeel;
 import java.awt.AWTException;
 import java.awt.Font;
 import java.awt.Image;
@@ -77,8 +77,8 @@ public class PopupMenu {
     
     public static void main(String[] args) {
         try {
-            LookAndFeel theme1 = new XPLookAndFeel();
-            UIManager.setLookAndFeel(theme1);
+            //LookAndFeel theme1 = new XPLookAndFeel();
+            //UIManager.setLookAndFeel(theme1);
             
         } catch (Exception ex) {
             System.exit(0);
